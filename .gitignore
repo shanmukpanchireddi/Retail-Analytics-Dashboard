@@ -1,1 +1,3 @@
-cleaned_retail_data (1).csv
+__pycache__/
+*.pyc
+.env
