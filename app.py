@@ -5,8 +5,7 @@ st.set_page_config(page_title="Retail Analytics Dashboard", layout="wide")
 
 st.title("📊 Retail Analytics Dashboard")
 
-powerbi_url = "https://app.powerbi.com/reportEmbed?reportId=f53c7aad-2e04-4758-9c91-363690dc19d3&autoAuth=true&ctid=d4963ce2-af94-4122-95a9-644e8b01624d"
-
+powerbi_url = "https://app.powerbi.com/reportEmbed?reportId=bd2825e8-f17d-4bba-98c3-c9d8f9eb2d82&autoAuth=true&ctid=d4963ce2-af94-4122-95a9-644e8b01624d"
 components.iframe(
     powerbi_url,
     width=1200,
