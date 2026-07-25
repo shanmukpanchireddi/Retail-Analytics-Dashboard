@@ -64,7 +64,7 @@ The complete workflow was developed in **Google Colab**, where the data was clea
 
 ## 📌 Executive Dashboard
 
-![Executive Dashboard](screenshots/executive_dashboard.png)
+![Executive Dashboard](executive%20dashboard.png)
 
 The Executive Dashboard provides a high-level summary of retail business performance through key performance indicators, enabling users to quickly evaluate sales trends and overall business insights.
 
@@ -72,7 +72,7 @@ The Executive Dashboard provides a high-level summary of retail business perform
 
 ## 📈 Sales Analysis Dashboard
 
-![Sales Analysis](screenshots/sales_analysis.png)
+![Sales Analysis](sales%20analysis%20dashboard.png)
 
 This dashboard provides detailed sales analysis including monthly sales trends, top-selling products, country-wise sales, weekday sales patterns, and hourly sales distribution to better understand customer purchasing behavior.
 
@@ -80,7 +80,7 @@ This dashboard provides detailed sales analysis including monthly sales trends, 
 
 ## 👥 Customer Segmentation Dashboard
 
-![Customer Segmentation](screenshots/customer_segmentation.png)
+![Customer Segmentation](customer%20segmentation%20dashboard.png)
 
 The Customer Segmentation Dashboard visualizes customer groups generated through **RFM (Recency, Frequency, Monetary) Analysis**, helping identify valuable customers and supporting targeted marketing strategies.
 
@@ -88,7 +88,7 @@ The Customer Segmentation Dashboard visualizes customer groups generated through
 
 ## 📉 Demand Forecasting Dashboard
 
-![Demand Forecasting](screenshots/demand_forecasting.png)
+![Demand Forecasting](demandforecasting%20dashboard.png)
 
 The Demand Forecasting Dashboard presents future sales predictions generated using forecasting models. These insights help businesses estimate future demand and improve planning decisions.
 
@@ -96,7 +96,7 @@ The Demand Forecasting Dashboard presents future sales predictions generated usi
 
 ## 📦 Inventory Optimization Dashboard
 
-![Inventory Optimization](screenshots/inventory_optimization.png)
+![Inventory Optimization](Inventory%20dashboard.png)
 
 This dashboard provides inventory insights including inventory status, reorder point, safety stock, and reorder quantity, helping businesses maintain optimal inventory levels.
 
